@@ -1,5 +1,5 @@
 # Highest-Base-of-Random-Numbers
-The code in the repository generates a random number which may comprise of intergers from 0 to 9 and of alphabets (A to Z). This number can't be longer than 8 digits and not shorter than 2 digits. After the generation of this number, the highest base of each of the number is determined and then later displayed. After all the numbers are done being generated and the highest base of each of the number is determined, we use matplotlib to get a graph of which base had the most occurrences.
+The code in the repository generates a random number which may comprise of intergers from 0 to 9 and of alphabets (A to Z). This number can't be longer than 8 digits and not shorter than 2 digits. After the generation of this number, the highest base of each of the number is determined and then later displayed. After all the numbers are done being generated and the highest base of each of the number is determined, we use matplotlib to get a graph of which base had the most occurrences./n
 We first import the required libraries.
 Next we initialize an empty list 'rn' to store randomly generated alphanumeric strings.
 Then we set the number of samples to generate, the more the amount of samples the more uniform the graph.
